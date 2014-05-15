@@ -1,4 +1,4 @@
-![alt tag](http://spirtfire.com/res/img/knot.svg)
+![alt tag](http://spirtfire.com/res/img/knot.png)
 knot
 ====
 
