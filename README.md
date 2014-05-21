@@ -4,6 +4,9 @@ knot
 
 A graph computing engine on top of mongoDB
 
-Features:
-  * SPARQL
+What is Knot
+
+How does Knot work
+
+Relevant component
   
