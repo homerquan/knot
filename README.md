@@ -2,7 +2,7 @@
 knot
 ====
 
-A graph computing engine on top of mongoDB
+A graph db engine on top of mongoDB
 
 What is Knot
 
