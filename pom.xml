@@ -8,7 +8,7 @@
         <version>7</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.github.homerquan</groupId>
+    <groupId>com.homerquan</groupId>
     <artifactId>knot</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>Knot :: Parent</name>
@@ -33,12 +33,27 @@
             <email>support@homerquan.com</email>
         </developer>
     </developers>
+    <properties>
+        <jmockit.version>1.8</jmockit.version>
+        <guava.version>17.0</guava.version>
+    </properties>
     <dependencyManagement>
         <dependencies>
             <dependency>
                 <groupId>com.github.jsonld-java</groupId>
                 <artifactId>jsonld-java</artifactId>
                 <version>0.5-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>org.jmockit</groupId>
+                <artifactId>jmockit</artifactId>
+                <version>${jmockit.version}</version>
+                <scope>test</scope>
+            </dependency>
+            <dependency>
+                <groupId>com.google.guava</groupId>
+                <artifactId>guava</artifactId>
+                <version>${guava.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
