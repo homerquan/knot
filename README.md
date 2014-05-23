@@ -9,7 +9,7 @@ Background
 In big data age, the amount of data alone can not represent the value of those data. But also HOW DATA ORGANIZED. 
 Well organized data can give rich picture and deep understand of your business and better way to leverage them to generante  rich features at low cost.  
 
-Graph DB is a promising technology to better organize data. Comparing to exisiting graph DBs, knot is trying to build on more conviential tech stack, MongoDB. And provide standard graph query as them same as other graph db such as Neo4j. 
+Graph DB is a promising technology for better data organizing. Comparing to exisiting graph DBs, knot is trying to build on more conviential tech stack, MongoDB. And provide standard graph query as them same as other graph db such as Neo4j. 
 
 What is Knot
 
