@@ -4,6 +4,13 @@ knot
 
 A graph computing engine on top of mongoDB
 
+Background
+
+In big data age, the amount of data alone can not represent the value of those data. But also HOW DATA ORGANIZED. 
+Well organized data can give rich picture and deep understand of your business and better way to leverage them to generante cool applications. 
+
+Graph DB is a promising technology to better orgnize data. Comparing to exisiting graph DBs, knot is trying to build on more conviential tech stack, MongoDB. And provide standard graph query as them same as other graph db such as Neo4j. 
+
 What is Knot
 
 A graph data platform who can read/write standard graph such as json-ld and GraphML http://graphml.graphdrawing.org
