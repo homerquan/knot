@@ -19,7 +19,7 @@ Run graph algorithm and persistent on MangoDB
 Goal:
   * Following paths of graph in conventional data storage (MangoDB)
   * Less memory trace
-  * Standard query interface
+  * Standard query interface (Gremlin REPL)
   * An extentable graph algorithm set
 
 How does Knot work
