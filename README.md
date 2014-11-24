@@ -12,7 +12,7 @@ MongoDB provides main stream, reliable data storage, but it is not easy to run l
 What is Knot
 ------------
 
-Knot is an effort to combine both merits and create a async connector between two data platforms. 
+Knot is an effort to combine both merits and create an async connector between two data platforms. 
 A graph data platform who can read/write standard graph such as json-ld and GraphML http://graphml.graphdrawing.org into Mongo and translate change in Mongo into vertices and edges into the Graph DB -- Run complexity graph analysis on graph db directly and keep persistent on MangoDB.
 
 Goal:
