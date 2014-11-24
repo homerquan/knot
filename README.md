@@ -7,7 +7,7 @@ A graph computing engine on top of mongoDB
 
 Background
 ----------
-MongoDB provides main stream, reliable data storage, but not easy to run linked data analysis on top of it directly. Graph DBs (such as neo4j, titan) or ontology repository (such as protege) are good at analysis but not designed for serve large scale application. 
+MongoDB provides main stream, reliable data storage, but it is not easy to run linked data analysis on top of it directly. Graph DBs (such as neo4j, titan) or ontology repository (such as protege) are good at analysis but not designed for serve large scale application. 
 
 What is Knot
 ------------
