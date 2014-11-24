@@ -22,7 +22,10 @@ Goal:
   * An extentable graph algorithm set
 
 How does Knot work
+------------
  * TBD
-Relevant component
+Reference
+------------
+
  * TBD
   
