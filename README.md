@@ -28,5 +28,5 @@ How does Knot work
 Reference
 ------------
 
- * TBD
+ * <https://github.com/10gen-labs/mongo-connector/wiki>
   
